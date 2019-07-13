@@ -263,7 +263,7 @@ ON users.id = posts.user_id
 ORDER BY posts.title;
 ```
 
-## New Table With 2 Foriegn Keys
+## New Table With 2 Foreign Keys
 
 ```sql
 CREATE TABLE comments(
