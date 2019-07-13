@@ -144,7 +144,7 @@ SELECT first_name, last_name FROM users;
 
 ```sql
 SELECT * FROM users WHERE location='Bertoua';
-SELECT * FROM users WHERE location='Bertoua' AND dept='bokito';
+SELECT * FROM users WHERE location='Bertoua' AND dept='sales';
 SELECT * FROM users WHERE is_admin = 1;
 SELECT * FROM users WHERE is_admin > 0;
 ```
