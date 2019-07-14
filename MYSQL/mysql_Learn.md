@@ -6,7 +6,7 @@
 * Mac             */usr/local/mysql/bin*
 * Windows         */Program Files/MySQL/MySQL _version_/bin*
 * Xampp           */xampp/mysql/bin*
-* Wamp64           */wamp64/bin/mysql/mysql5.7.23/bin*
+* Windows          */wamp64/bin/mysql/mysql5.7.23/bin*
 
 ## Add mysql to your PATH
 
@@ -71,7 +71,7 @@ exit;
 ## Show Databases
 
 ```sql
-SHOW DATABASES
+SHOW DATABASES;
 ```
 
 ## Create Database
